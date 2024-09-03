@@ -1,5 +1,5 @@
 # Flipkart Clone Project
-Click on https://fancy-boba-617c81.netlify.app/to view it in your browser.
+Click on https://fancy-boba-617c81.netlify.app/ to view it in your browser.
 
 ![flipkart clone project](https://github.com/PariBainsla/Projects/assets/153187084/1b2c9a93-1ac1-46ae-a404-20559e2711a1)
 ![flipkart clone project 2](https://github.com/PariBainsla/Projects/assets/153187084/b0cd4998-0e0d-494b-8ea4-8327250e9121)
